@@ -123,10 +123,7 @@ footer p{
 body{
     background-image: url(./bg..jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-   
-    
-    
+    background-size: cover; 
 }
 @media(max-width:930px){
 
